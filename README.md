@@ -1,1 +1,3 @@
 # newlife
+pwd
+ls
